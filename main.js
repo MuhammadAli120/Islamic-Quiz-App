@@ -195,7 +195,7 @@ const quizEnd = () => {
             <h3 class="w-100"> -CREATE BY MUHAMMAD ALI- </h3>
         </div>
           <div class="col">
-            <h3 class="w-100"> -INSPIRED FORM FARHAN- </h3>
+            <h3 class="w-100"> -INSPIRED FORM FARHAN SHAFI- </h3>
         </div>
         
     `
